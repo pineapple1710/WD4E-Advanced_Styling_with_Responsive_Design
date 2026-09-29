@@ -158,3 +158,9 @@ header {
         width: 30%;
     }
 }
+@media screen and (max-width: 771px) {
+    div {
+        display: block;
+        width: 100%;
+    }
+}
